@@ -1,0 +1,9 @@
+@import url('./common/reset.css');
+
+@font-face {
+  font-family: 'Consolas';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(@/assets/fonts/consolas.ttf);
+}
